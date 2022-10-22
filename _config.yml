@@ -2,10 +2,10 @@
 title: 闫树杰
 subtitle: 海阔天空 鸟语花香
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: evolving
+description: go go go
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://qinghe4444447.onevcat.com"
+url: "https://qinghe4444447.github.io/#blog"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/qinghe4444447/qinghe4444447.github.io'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,8 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    github: qinghe4444447
+    mail: qinghe4444@gmail.com
 
 # Google Analytics
 ga:
