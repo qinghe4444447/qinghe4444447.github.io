@@ -2,7 +2,7 @@
 title: 闫树杰
 subtitle: 海阔天空 鸟语花香
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: go go go
+description: study together
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://qinghe4444447.github.io/#blog"
@@ -39,7 +39,9 @@ comment:
 social:
     github: qinghe4444447
     mail: qinghe4444@gmail.com
-
+    weibo: 
+    twitter: 
+    gplus: 107108267983477358170
 # Google Analytics
 ga:
     # id: your_ga_id
