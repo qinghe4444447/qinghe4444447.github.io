@@ -31,10 +31,10 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: 
-    # duoshuo: 
-    
+ #gitment
+comment_gitment_repo: qinghe4444444.github.io
+comment_gitment_clientId: 847c9fe215fdd295f268
+comment_gitment_clientSecret: 2ba7bd2fb0b0d5abc58d1fa5e4ccd0325e9a3812
 # Social
 social:
     github: qinghe4444447
